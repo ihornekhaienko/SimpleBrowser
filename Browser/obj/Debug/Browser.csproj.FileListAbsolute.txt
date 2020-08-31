@@ -1,0 +1,10 @@
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\bin\Debug\Browser.exe.config
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\bin\Debug\Browser.exe
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\bin\Debug\Browser.pdb
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\obj\Debug\Browser.csprojAssemblyReference.cache
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\obj\Debug\Browser.exe
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\obj\Debug\Browser.pdb
+C:\projects\sharp\wf\browser\MyBrowser\Browser\Browser\obj\Debug\Browser.MainForm.resources
