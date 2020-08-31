@@ -13,12 +13,6 @@ namespace Browser
             InitializeComponent();
         }
         /// <summary>
-        /// Этот метод передаёт привет ХабраХабру столько раз, сколько скажите.
-        /// </summary>
-        /// <param name="repeat">Сколько раз передать привет</param>
-        /// <returns>Сама строка с приветами</returns>
-
-        /// <summary>
         /// Form load event handler, calls LoadFrom to load the initial page.
         /// </summary>
         private void MainForm_Load(object sender, EventArgs e)
